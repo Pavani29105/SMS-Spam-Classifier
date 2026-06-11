@@ -1,5 +1,9 @@
 import streamlit as st
 import pickle
+import nltk
+
+nltk.download('punkt')
+nltk.download('stopwords')
 
 st.set_page_config(page_title="SMS Spam Classifier")
 st.title("📩 SMS Spam Classifier")
