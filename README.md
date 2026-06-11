@@ -79,7 +79,7 @@ SMS-Spam-Classifier/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Pavani29105/SMS-Spam-Classifier/
 cd SMS-Spam-Classifier
 ```
 
